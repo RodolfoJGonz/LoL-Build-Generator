@@ -1,0 +1,478 @@
+(['E:\\Users\\Rodolfo '
+  'Gonzalez\\Documents\\GitHub\\LoL-Build-Generator\\Build-Generator.py'],
+ ['E:\\Users\\Rodolfo Gonzalez\\Documents\\GitHub\\LoL-Build-Generator'],
+ ['codecs'],
+ ['C:\\Users\\Rodolfo '
+  'Gonzalez\\AppData\\Roaming\\Python\\Python310\\site-packages\\pygame\\__pyinstaller',
+  'W:\\Users\\Rodolfo '
+  'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'W:\\Users\\Rodolfo '
+  'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
+  'W:\\Users\\Rodolfo '
+  'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
+  'W:\\Users\\Rodolfo '
+  'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
+  'W:\\Users\\Rodolfo '
+  'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ {},
+ [],
+ [],
+ False,
+ False,
+ False,
+ {},
+ '3.10.7 (tags/v3.10.7:6cc6b13, Sep  5 2022, 14:08:36) [MSC v.1933 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_subprocess',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('Build-Generator',
+   'E:\\Users\\Rodolfo '
+   'Gonzalez\\Documents\\GitHub\\LoL-Build-Generator\\Build-Generator.py',
+   'PYSOURCE')],
+ [('inspect',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\inspect.py',
+   'PYMODULE'),
+  ('importlib',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\typing.py',
+   'PYMODULE'),
+  ('contextlib',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('email.message',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('string',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\string.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('copy',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\copy.py',
+   'PYMODULE'),
+  ('_strptime',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\gettext.py',
+   'PYMODULE'),
+  ('struct',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\struct.py',
+   'PYMODULE'),
+  ('email.charset',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('socket',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\selectors.py',
+   'PYMODULE'),
+  ('quopri',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'W:\\Users\\Rodolfo Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\optparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('zipfile',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('lzma',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'W:\\Users\\Rodolfo Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\bz2.py',
+   'PYMODULE'),
+  ('threading',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('shutil',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\gzip.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('email',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('csv',
+   'W:\\Users\\Rodolfo Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\csv.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('argparse',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\argparse.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('dis',
+   'W:\\Users\\Rodolfo Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\opcode.py',
+   'PYMODULE'),
+  ('ast',
+   'W:\\Users\\Rodolfo Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\ast.py',
+   'PYMODULE'),
+  ('subprocess',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('signal',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\signal.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pickle',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\pprint.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('tempfile',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('getpass',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('logging',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('ssl',
+   'W:\\Users\\Rodolfo Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\ssl.py',
+   'PYMODULE'),
+  ('http.client',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('hashlib',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\bisect.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('stringprep',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('random',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\lib\\numbers.py',
+   'PYMODULE')],
+ [('python310.dll',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\python310.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('select',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_decimal',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('libcrypto-1_1.dll',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'W:\\Users\\Rodolfo '
+   'Gonzalez\\AppData\\Local\\Programs\\Python\\DLLs\\libssl-1_1.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'E:\\Users\\Rodolfo '
+   'Gonzalez\\Documents\\GitHub\\LoL-Build-Generator\\build\\Build-Generator\\base_library.zip',
+   'DATA')],
+ [])
